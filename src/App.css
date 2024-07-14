@@ -88,7 +88,6 @@ nav {
 .primary-heading {
   font-size: clamp(2rem, 5vw, 4rem);
   color: #4c4c4c;
-  /* line-height: 5rem; */
   max-width: 600px;
 }
 .primary-text {
@@ -213,9 +212,7 @@ nav {
   margin-right: 1.25rem;
   color: #585858;
 }
-/* .footer-section-one {
-  border: 2px solid blue;
-} */
+}
 .footer-section-two {
   flex: 1;
   display: flex;
