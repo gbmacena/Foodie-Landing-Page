@@ -17,12 +17,9 @@ img {
   margin: 0rem auto;
 }
 body {
+  background-color: #f6f6f6;
   max-width: 100%;
   overflow-x: hidden;
-}
-
-body {
-  background-color: #f6f6f6;
 }
 
 nav {
@@ -230,7 +227,6 @@ nav {
   cursor: pointer;
 }
 .testimonial-section-bottom {
-  margin-top: 2rem;
   background-color: white;
   padding: 1.5rem 2rem;
   display: flex;
