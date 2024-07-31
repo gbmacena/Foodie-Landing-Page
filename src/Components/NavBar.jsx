@@ -24,19 +24,19 @@ function NavBar() {
       icon: <HomeIcon />,
     },
     {
-      text: "About",
+      text: "Sobre",
       icon: <InfoIcon />,
     },
     {
-      text: "Testimonials",
+      text: "Depoimentos",
       icon: <CommentRoundedIcon />,
     },
     {
-      text: "Contact",
+      text: "Contato",
       icon: <PhoneRoundedIcon />,
     },
     {
-      text: "Cart",
+      text: "Carrinho",
       icon: <ShoppingCartRoundedIcon />,
     },
   ];
